@@ -1,0 +1,30 @@
+Evento_ID,Fecha,Evento,Tipo,Proyecto,Meta registrados,Registrados real,Meta asistentes,Asistentes real,Conversión meta,Ventas unid. real,Ticket esperado,Venta real S/,Presupuesto,Costo real,Cash-in proyectado,Cash-in real
+EV-001,2026-09-23,Visita Proyecto de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-002,2026-09-27,Visita Proyecto de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-003,2026-09-30,Visita Proyecto de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-004,2026-10-04,Visita Proyecto de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-005,2026-10-07,Visita Proyecto de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-006,2026-10-11,Visita Proyecto de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-007,2026-10-14,Visita Proyecto de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-008,2026-10-16,Coctel de inversionistas - Pre lanzamiento Oficial de Paraiso de Santa Maria,Coctel Inversionista,Paraiso de Santa Maria,80.0,60.0,40.0,40.0,0.12,0.0,39000.0,200000.0,6000.0,5600.0,84525.0,76000.0
+EV-009,2026-10-18,Cierre de Pre-Lanzamiento,Evento Proyecto,Paraiso de Santa Maria,90.0,82.0,50.0,48.0,0.14,0.0,0.0,287500.0,8000.0,7600.0,140875.0,90000.0
+EV-010,2026-10-21,Visita Cierre de Prelanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-011,2026-10-25,Gran Lanzamiento - Proyecto Paraiso de Santa Maria,Evento Proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-012,2026-10-28,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-013,2026-10-31,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-014,2026-11-04,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-015,2026-11-08,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-016,2026-11-11,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-017,2026-11-15,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-018,2026-11-18,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-019,2026-11-20,Coctel de inversionistas - Cierre de Preventa Paraiso de Santa Maria,Coctel Inversionista,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-020,2026-11-22,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-021,2026-11-25,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-022,2026-11-29,Gran Cierra Puertas 2026,Evento Proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-023,2026-12-02,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-024,2026-12-06,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-025,2026-12-09,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-026,2026-12-13,Gran Evento Navideño y Cierre de Año,Evento Proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-027,2026-12-16,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-028,2026-12-20,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EV-029,2026-12-27,Visita Proyecto lanzamiento,Visita proyecto,Paraiso de Santa Maria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

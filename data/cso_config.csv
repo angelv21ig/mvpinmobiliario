@@ -1,0 +1,15 @@
+Parametro,Valor,Descripcion
+Inicio_Venta,2025-10-01,Fecha de inicio de comercialización del proyecto
+Conv_Lead_Agendado,0.20,Meta conversión Lead a Agendado (20%)
+Asistencia_Agendado_Visita,0.60,Meta asistencia Agendado a Visita (60%)
+Conv_Visita_Separacion,0.333333,Regla comercial 3:1 (33.3% Visita a Separación)
+Conv_Separacion_Venta,0.80,Meta conversión Separación a Venta (80%)
+Ticket_Promedio_Meta,40000.0,Ticket promedio de venta referencial (S/)
+Meta_Ventas_Mensual_Unid,10.0,Meta de unidades vendidas por mes
+Semanas_Operativas_Mes,4.33,Semanas operativas promedio por mes
+Cash_In_Minimo_Pct,0.35,Cash-in mínimo esperado sobre ventas (35%)
+Inicial_Promedio_Min_Pct,0.20,Inicial promedio mínima en ventas financiadas (20%)
+Descuento_Maximo_Pct,0.04,Descuento máximo permitido sobre lista (4%)
+Cancelaciones_Maximo_Pct,0.05,Tasa máxima tolerada de caídas/cancelaciones (5%)
+Meta_Consolidacion_Pct,0.95,Meta de ventas consolidadas vs brutas (95%)
+Capacidad_Leads_Mes_Asesor,80.0,Capacidad mensual de atención de leads por asesor activo
